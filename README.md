@@ -27,4 +27,4 @@ En ce moment je construis des projets qui mélangent data science et sécurité.
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
 
-![mahmoudbhs's GitHub stats](https://github-readme-stats.vercel.app/api?username=mahmoudbhs&show_icons=true&theme=dark)
+
