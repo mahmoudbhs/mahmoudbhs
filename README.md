@@ -1,4 +1,4 @@
-# Yo, moi c'est Mahmoud 👋
+Moi c'est Mahmoud 👋
 **Data Science · Machine Learning · Cybersécurité**
 
 Passionné par la data et la sécurité des systèmes. J'aime construire des trucs utiles — que ce soit détecter des fraudes bancaires avec du ML, automatiser des analyses de réseaux mobiles, ou explorer comment les systèmes peuvent être compromis (et surtout comment les protéger).
