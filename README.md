@@ -1,9 +1,10 @@
 Moi c'est Mahmoud 👋
 **Data Science · Machine Learning · Cybersécurité**
+Étudiant 3ème année Bachelor Data & IA · ECE Paris
 
-Passionné par la data et la sécurité des systèmes. J'aime construire des trucs utiles — que ce soit détecter des fraudes bancaires avec du ML, automatiser des analyses de réseaux mobiles, ou explorer comment les systèmes peuvent être compromis (et surtout comment les protéger).
+Passionné par la data, l'intelligence artificielle et la cybersécurité. J'aime construire des projets qui ont du sens — que ce soit analyser des données, entraîner des modèles ML ou explorer la sécurité des systèmes.
 
-En ce moment je construis des projets qui mélangent data science et sécurité. Toujours en apprentissage, toujours en train de coder.
+Toujours en apprentissage, toujours en train de coder.
 
 ---
 
